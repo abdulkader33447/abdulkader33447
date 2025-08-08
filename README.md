@@ -32,9 +32,13 @@ I'm a passionate Front-End Web Developer from Bangladesh 🇧🇩 with a strong 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkader33447&show_icons=true)
 
-<!-- Vaunt badge left aligned with smaller size -->
-<div align="left">
-  <img src="https://api.vaunt.dev/v1/github/entities/abdulkader33447/contributions?format=svg&private=false" alt="Vaunt Badge" width="100%" height="300px" />
-</div>
+<!-- Vaunt badge left aligned with fixed size -->
+<p align="left">
+  <img src="https://api.vaunt.dev/v1/github/entities/abdulkader33447/contributions?format=svg&private=false" 
+       alt="Vaunt Badge" 
+       width="500px" 
+       height="300px" />
+</p>
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdulkader33447)

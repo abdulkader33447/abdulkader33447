@@ -2,7 +2,19 @@
 
 I'm a passionate Front-End Web Developer from Bangladesh 🇧🇩 with a strong interest in building user-friendly, responsive, and accessible web applications.
 
-**Skills**: React.Js | Next.Js | TailwindCss | JavaScript | Firebase | MongoDB | Node.Js
+### 🚀 Skills
+
+#### 👨‍💻 Frontend
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+#### 🧠 Backend & Tools
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
 
 - 🔭 I’m currently working on this page.  
 - 🌱 I’m currently learning Next.js | Redux

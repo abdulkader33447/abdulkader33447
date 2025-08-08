@@ -5,15 +5,45 @@ I'm a passionate Front-End Web Developer from Bangladesh 🇧🇩 with a strong 
 ### 🚀 Skills
 
 #### 👨‍💻 Frontend
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="left">
+  <strong>Frontend:</strong><br><br>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="25" height="25" />
+  React.js &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="25" height="25" />
+  Next.js &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="25" height="25" />
+  TailwindCSS &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN UI" width="25" height="25" />
+  ShadCN UI &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://daisyui.com/favicon.ico" alt="DaisyUI" width="20" height="20" />
+  DaisyUI &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25" />
+  JavaScript
+
+</p>
+
+
+
+<br/>
 
 #### 🧠 Backend & Tools
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<p align="left">
+  <strong>Backend & Tools:</strong><br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25" />
+  Node.js &nbsp;&nbsp;
+
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="25" height="25" />
+  Firebase &nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="25" height="25" />
+  MongoDB
+</p>
 
 
 - 🔭 I’m currently working on this page.  

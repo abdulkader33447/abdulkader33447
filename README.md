@@ -46,7 +46,7 @@ I'm a passionate Front-End Web Developer from Bangladesh 🇧🇩 with a strong 
 </p>
 
 
-- 🔭 I’m currently working on this page.  
+
 - 🌱 I’m currently learning Next.js | Redux
 
 <!-- Social Icons -->

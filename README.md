@@ -1,4 +1,4 @@
-![I'm a Jr. Front-End Developer](https://i.ibb.co.com/7tS1PpVB/Screenshot-2025-08-08-160541.png)
+# Hey! My Name Is Abdul Kader <br> I'm a Jr. Front-End Developer 
 
 I'm a passionate Front-End Web Developer from Bangladesh 🇧🇩 with a strong interest in building user-friendly, responsive, and accessible web applications.
 

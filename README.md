@@ -17,8 +17,8 @@ I'm a passionate Front-End Web Developer from Bangladesh 🇧🇩 with a strong 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="25" height="25" />
   TailwindCSS &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN UI" width="25" height="25" />
-  ShadCN UI &nbsp;&nbsp;&nbsp;&nbsp;
+ <!-- <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN UI" width="25" height="25" />
+  ShadCN UI &nbsp;&nbsp;&nbsp;&nbsp; -->
 
   <img src="https://daisyui.com/favicon.ico" alt="DaisyUI" width="20" height="20" />
   DaisyUI &nbsp;&nbsp;&nbsp;&nbsp;
